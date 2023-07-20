@@ -29,5 +29,8 @@ codegen/
 # Cache files
 *.slxc
 
+# Cached buildtool data
+.buildtool/**
+
 # Cloud based storage dotfile
 .MATLABDriveTag
